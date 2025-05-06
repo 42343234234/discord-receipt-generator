@@ -1,0 +1,1 @@
+# discord-receipt-generator
